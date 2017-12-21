@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: DemoPersistence
+Implementation-Version: 0.0.1
+Built-By: tcsadmin
+Implementation-Vendor-Id: com.demo.persistence
+Build-Jdk: 1.8.0_152
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/DemoPersistence/
+Created-By: Maven Integration for Eclipse
+
